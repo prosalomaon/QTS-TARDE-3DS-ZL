@@ -1,3 +1,5 @@
 ## O que é Débito Técnico?
 
+
 <p><b>Débito Técnico</b> é o termo utilizado para descrever equipes que priorizam o envio de soluções <b><i>mais rápidas</b></i>, ao invés de mais eficientes a longo prazo, priorizando o tempo de envio ao invés da perfeição do código. Fatores que podem causar isso envolvem escassez de <i>habilidade técnica</i>, altas <i>taxas de rotatividade</i> (isso é, quando equipes mudam frequentemente de formação) ou necessidade de entrega rápida, como já citado anteriormente.</p>
+<img width="736" height="427" alt="image" src="https://github.com/user-attachments/assets/ad3491a4-b9e9-4a7d-9771-7e1eb114e6f2" />
