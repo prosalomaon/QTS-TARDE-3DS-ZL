@@ -22,7 +22,7 @@ Assim como um empréstimo financeiro, às vezes "pegamos emprestado" qualidade p
 
 ---
 
-### ⚠️ As Consequências
+###  As Consequências
 Se os "juros" não forem pagos (refatorando o código), o sistema pode enfrentar:
 1.  **Lentidão** no desenvolvimento de novas funcionalidades.
 2.  Aumento na quantidade de **bugs**.
